@@ -18,185 +18,23 @@ Albania Albanian Albanians Albany Albee Alberio Albert Alberta Alberto Albigensi
 Albion Albireo Albuquerque Alcatraz Alcestis Alcibiades Alcindor Alcmena Alcoa Alcott
 Alcuin Alcyone Aldan Aldebaran Alden Alderamin Aldo Aldrin Alec Aleichem
 Alejandra Alejandro Alembert Aleppo Aleut Aleutian Alex Alexander Alexandra Alexandria
-ACollection
-admins
-Adoptium
-AKV
-allprojects
-APKCXEA
-ASL
-assertingparty
-assertj
-authenticationserviceexceptions
-autoconfigure
-avro
-awt
-azzert
-bfa
-BOMs
-camelcase
-checkstyle
-circleci
-classdeclaration
-clickjacking
-cloudsuitability
-CMK
-cmn
-Cobertura
-compilationunit
-configprops
-Configurer
-contextualized
-Contraints
-controlflow
-corba
-cursoring
-cus
-customizability
-cve
-CWE
-cyclonedx
-databind
-datasource
-diffs
-dsl
-Dto
-ehcache
-ejb
-Elasti
-Encryptors
-endcode
-endhint
-endtab
-fasterxml
-GAV
-gitbook
-googlecode
-gradlew
-hamcrest
-Heroku
-HSQL
-identityprovider
-IHzb
-Initializr
-initscript
-Intelli
-intranode
-jacc
-javatemplate
-JAX
-jaxb
-JAXRS
-jaxws
-JCache
-JDepr
-jdeprscan
-JDKs
-JDKTo
-jedi
-jhipster
-Jks
-JLeft
-JLS
-jni
-Johnzon
-Jpa
-jre
-JRight
-jsonpathmatcher
-jsontype
-jws
-JWTs
-Kenobi
-keystore
-Kilburn
-kotlin
-ksh
-kts
-linebreak
-liquibase
-logback
-lombok
-lsts
-Mailgun
-mav
-MDBs
-methoddeclaration
-micronaut
-minidev
-mnt
-mockito
-multimodule
-mvc
-mvn
-mvnw
-mycompany
-NACHA
-netflix
-nimbusds
-nio
-NSG
-nullability
-OIDC
-okhttp
-omg
-openj
-openrewrite
-owasp
-passwordencoder
-Peristence
-petclinic
-Pgp
-Picatic
-pointcut
-Postgre
-projectlombok
-protobuf
-quarkus
-Querydsl
-qute
-rebranded
-Recile
-recipespec
-Refaster
-relyingparty
-rewritetest
-roadmap
-Saas
-scryptpasswordencoder
-SDKMAN
-sdkmanrc
-searchresult
-securitycontextrepository
-semeru
-setcustomerinfo
-Skywalker
-slf
-smallrye
-smushed
-snakeyaml
-Snyk
-Sonatype
-sourcespecs
-Springbatch
-springframework
-staticanalysis
-Stewjon
-supertypes
-temurin
-terraform
-testng
-throwz
-thymeleaf
-TML
-TODOs
-TVP
-Twilio
-variabledeclarations
-Webflux
-websecurityconfigureradapter
-wiremock
-xsi
-XXE
-Yoda
-yourorg
+Alexei Alexis Alfonso Alfonzo Alford Alfred Alfreda Alfredo Algenib Alger
+Algeria Algerian Algerians Algieba Algiers Algol Algonquian Algonquians Algonquin Alhambra
+Alhena Ali Alice Alicia Alighieri Aline Alioth Alisa Alisha Alison
+Alissa Alistair Alkaid Allah Allahabad Allan Alleghenies Allegheny Allegra Allen
+Allende Allentown Allie Allison Allstate Allyson Alma Almach Almaty Almighty
+Almohad Almoravid Alnilam Alnitak Alonzo Alpert Alphard Alphecca Alpheratz Alphonse
+Alphonso Alpine Alpo Alps Alsace Alsatian Alsop Alston Alta Altai
+Altaic Altair Altamira Althea Altiplano Altman Altoids Alton Aludra Alva
+Alvarado Alvarez Alvaro Alvin Alyce Alyson Alyssa Alzheimer Am Amadeus
+Amado Amalia Amanda Amarillo Amaru Amaterasu Amati Amazon Amazons Amber
+Amelia Amenhotep Amerasian America American Americana Americanism Americanisms Americanization Americanizations
+Americanize Americanized Americanizes Americanizing Americans Americas Amerind Amerindian Amerindians Amerinds
+Ameslan Amharic Amherst Amie Amiga Amish Amman Amoco Amos Amparo
+Ampere Amritsar Amsterdam Amtrak Amundsen Amur Amway Amy Ana Anabaptist
+Anabel Anacin Anacreon Anaheim Analects Ananias Anasazi Anastasia Anatole Anatolia
+Anatolian Anaxagoras Anchorage Andalusia Andalusian Andaman Andean Andersen Anderson Andes
+Andorra Andre Andrea Andrei Andres Andretti Andrew Andrews Andrianampoinimerina Android
+Andromache Andromeda Andropov Andy Angara Angel Angela Angelia Angelica Angelico
+Angelina Angeline Angelique Angelita Angelo Angelou Angevin Angie Angkor Anglia
+Anglican Anglicanism Anglicanisms Anglicans Anglicize Anglo Anglophile Angola Angolan Angolans
